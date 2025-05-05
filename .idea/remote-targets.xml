@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="student@172.206.203.209:22" type="ssh/sftp" uuid="b8ba9163-4f2c-4641-a562-df23c762f50e">
+        <config>
+          <option name="projectRootOnTarget" value="/home/student/DS_ALGS_PROJECT" />
+          <option name="serverName" value="student@172.206.203.209:22 password" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="homePath" value="/" />
+            <option name="javaVersionString" value="11.0.25" />
+          </config>
+        </ContributedStateBase>
+      </target>
+      <target name="student@20.169.239.203:22" type="ssh/sftp" uuid="4aaa7ed0-5a03-411b-bd66-4dcdec32d764">
+        <config>
+          <option name="projectRootOnTarget" value="/home/student/DS_ALGS_PROJECT" />
+          <option name="serverName" value="student@20.169.239.203:22 password" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="javaVersionString" value="11.0.25" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
